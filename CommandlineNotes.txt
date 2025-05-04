@@ -1,0 +1,7 @@
+flex scanner.l
+gcc lex.yy.c
+./a.out <filePath
+
+
+make
+pl1c <filePath>
